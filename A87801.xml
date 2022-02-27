@@ -1,0 +1,848 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd at All-Hallows in New Castle upon Tyne, on the 22d. of September, 1695. Being the day of Thanksgiving to almighty God for the taking the town and castle of Namur, and for protecting his Majesty's sacred person. By Tho. Knaggs, M. A. and chaplain to the right honourable Ford, Earl of Tankerville</title>
+            <author>Knaggs, Thomas, 1660 or 1-1724.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87801</idno>
+            <idno type="STC">Wing K663E</idno>
+            <idno type="STC">ESTC R230365</idno>
+            <idno type="EEBO-CITATION">99899579</idno>
+            <idno type="PROQUEST">99899579</idno>
+            <idno type="VID">154019</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87801)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154019)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2393:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd at All-Hallows in New Castle upon Tyne, on the 22d. of September, 1695. Being the day of Thanksgiving to almighty God for the taking the town and castle of Namur, and for protecting his Majesty's sacred person. By Tho. Knaggs, M. A. and chaplain to the right honourable Ford, Earl of Tankerville</title>
+                  <author>Knaggs, Thomas, 1660 or 1-1724.</author>
+               </titleStmt>
+               <extent>[4], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Richard Baldwin, near the Oxford-Arms in Warwick-Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154019:1"/>
+            <pb facs="tcp:154019:1" rendition="simple:additions"/>
+            <p>A SERMON Preach'd at <hi>All-Hallows</hi> IN <hi>New Castle</hi>
+upon <hi>Tyne,</hi> ON THE 22<hi>d.</hi> of <hi>September,</hi> 1695. Being the
+<hi>Day of Thanksgiving</hi> to Al<g ref="char:EOLhyphen"/>mighty God for the Taking the Town and
+Caſtle of <hi>Namur,</hi> and for protecting his Majeſty's Sacred
+Perſon.</p>
+            <p>By <hi>Tho. Knaggs,</hi> M. A. and Chaplain to the Right
+Honourable <hi>Ford,</hi> Earl of <hi>Tankerville.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Baldwin,</hi> near the
+<hi>Oxford-Arms</hi> in <hi>Warwick-Lane,</hi> 1695.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:154019:2"/>
+            <pb facs="tcp:154019:2"/>
+            <head>TO THE RIGHT HONOURABLE FORD, Earl of <hi>Tankerville,</hi>
+Viſcount <hi>Glen<g ref="char:EOLhyphen"/>dale,</hi> Baron of <hi>Werk,</hi> and one of his
+Majeſty's moſt Honourable Pri<g ref="char:EOLhyphen"/>vy Council.</head>
+            <opener>
+               <salute>My LORD,</salute>
+            </opener>
+            <p>AS ſoon as I yielded to the publica<g ref="char:EOLhyphen"/>tion of this Sermon, I
+reſolved to commit it to your Lordſhips Pa<g ref="char:EOLhyphen"/>tronage. The high Eſteem,
+(together with an earneſt deſire publickly to ſhew my gratitude) I have
+of your Loyalty to the King, your hearty Zeal and Fervor for the
+<hi>Proteſtant Intereſt,</hi> your dexte<g ref="char:EOLhyphen"/>rity in the management of publick
+Bu<g ref="char:EOLhyphen"/>ſineſs, your Sage and Eloquent way of<pb facs="tcp:154019:3"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:154019:3"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:154019:4"/>Speech, and thoſe many other high Ac<g ref="char:EOLhyphen"/>compliſhments
+and extraordinary En<g ref="char:EOLhyphen"/>dowments you are abundantly rich in, will, I hope,
+excuſe the boldneſs of this <hi>Dedication,</hi> and obtain pardon for
+pre<g ref="char:EOLhyphen"/>fixing your Great Name to ſo ſlender a Diſcourſe.</p>
+            <p>My LORD,</p>
+            <p>Your Lordſhip has improved the Ho<g ref="char:EOLhyphen"/>nour you were born to, and
+advanced your Noble and Ancient Family, by ſtanding faſt to your Religion,
+and ſup<g ref="char:EOLhyphen"/>porting our Laws and Liberties, when Popery and an Arbitrary Power
+were coming in to be triumphant among us. May your Lordſhip live long, to be
+an Ornament to your Country, and a Bleſ<g ref="char:EOLhyphen"/>ſing to the Publick, is, and
+ſhall be the daily prayer of</p>
+            <closer>
+               <salute>My Lord,</salute> 
+               <signed>Your Lordſhip's moſt humble and moſt obedient Servant
+and Chaplain, THO. KNAGGS.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:154019:4"/>
+            <epigraph>
+               <q>
+                  <bibl>PSAL. 126.3.</bibl> 
+                  <p>The Lord hath done great Things for us already, whereof we
+rejoice.</p>
+               </q>
+            </epigraph>
+            <p>WHO was the Compoſer of this Pſalm, I ſhall not curiouſly
+or nicely ſearch into, ſeeing 'tis univerſally believ'd to be a joy<g ref="char:EOLhyphen"/>ful
+and chearful Hymn made by <hi>Ezra,</hi> or ſome good Man, at the
+<hi>Jews</hi> return out of Captivity, who had been kept a long time in Bondage
+in a ſtrange Country, a<g ref="char:EOLhyphen"/>mong Infidels and Idolaters. When the People ſaw
+ſo wonderful a Change all on a ſuddain wrought for them, and Liberty
+granted to return into their own Country, they were ſo amaz'd and
+tranſported with the Delive<g ref="char:EOLhyphen"/>rance, that they could ſcarce believe it to be
+true, and look'd upon it only as a Dream, which vaniſheth and comes to
+nothing. 
+<note place="margin">
+                  <hi>v.</hi> 1.</note>
+               <hi>When the Lord turn'd
+again the Capti<g ref="char:EOLhyphen"/>vity of</hi> Sion, <hi>we were like them that dream.</hi> But
+awa<g ref="char:EOLhyphen"/>king, and ſeeing their Deliverance to be real, 
+<note place="margin">
+                  <hi>v.</hi> 2.</note>
+               <hi>their Mouth was fill'd
+with Laughter, and their Tongue with Singing,</hi> crying out with joy and
+triumph, <hi>The Lord hath done great Things for us already, whereof we
+rejoice.</hi>
+            </p>
+            <p>I ſhall take the liberty, and that without any violence to the
+Words, to apply them to the happy Occaſion of this Day. In which you may
+obſerve, 
+<list>
+                  <item>
+                     <hi>Firſt,</hi> A joyful Acknowledgment made to God, that
+he hath done great Things for us.</item>
+                  <item> 
+                     <hi>Secondly,</hi> I will ſhew what ſome of theſe
+great Things are. <pb facs="tcp:154019:5"/>
+                     <gap reason="duplicate" resp="#OXF" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="1" facs="tcp:154019:5"/>
+                     <gap reason="duplicate" resp="#OXF" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                  </item>
+                  <item>
+                     <pb n="2" facs="tcp:154019:6"/> 
+                     <hi>Thirdly,</hi> What our Duty is in
+return to the Almighty, for doing ſo great Things for us.</item>
+                  <item> 
+                     <hi>Laſtly,</hi> What Improvement we are to make of the
+whole. And</item>
+               </list>
+            </p>
+            <p>
+               <hi>Firſt,</hi> A joyful Acknowledgment made to God, that he
+hath done great Things for us.</p>
+            <p>The rich Man makes his Wealth his ſtrong City, 
+<note place="margin">
+                  <hi>Joh.</hi> 31.24.</note>
+               <hi>He ſaith unto
+Gold, thou art my Hope, and unto the Wedge of Gold, thou art my
+Confidence,</hi> 
+               <note place="margin">
+                  <hi>Pro.</hi> 11,28.</note>
+               <hi>but he that
+truſteth in his Riches ſhall fall.</hi> The worldly wiſe Man that thinks
+to ſave himſelf by his own policy, let him remember that God many times
+infatuates the Wiſdom of the Wiſe, and brings their Counſels to nought;
+the mighty Man that truſteth in his Arm of Fleſh, and puts his Confi<g ref="char:EOLhyphen"/>dence
+in the multitude of his Chariots and Horſemen, 
+<note place="margin">
+                  <hi>Iſal.</hi> 31.1.</note>
+               <hi>That goes down
+into</hi> Egypt <hi>for help, and looks not unto the Holy One of</hi> Iſrael,
+<hi>and ſeeks not unto the Lord.</hi> Let him conſider, 
+<note place="margin">
+                  <hi>v.</hi> 3.</note>
+               <hi>that the</hi> Egyptians
+<hi>are Men and not Gods, and their Horſes Fleſh, and not Spirit; and when
+the Lord ſhall ſtretch out his hand, both the Helper and he that is Holpen
+ſhall fall, and they ſhall altogether fail.</hi> It was the ſaying of
+<hi>One</hi> when he was falling into the Enemies hand, <hi>My Kingdom for an
+Horſe,</hi> but 
+<note place="margin">
+                  <hi>Pſal.</hi> 33.17.</note>
+               <hi>an Horſe is
+counted but a vain thing to ſave a Man, neither ſhall he deliver any by his
+great ſtrength.</hi> We know, that if we 
+<note place="margin">
+                  <hi>Iſai.</hi> 30.2. <hi>v.</hi>
+3.</note>
+               <hi>truſt in the ſhadow of</hi> Egypt, and <hi>ſtrengthen our
+ſelves with the ſtrength of</hi> Pharoah, 
+<note place="margin">
+                  <hi>v.</hi> 3.</note>the end of that Truſt and
+Strength will be our <hi>Shame</hi> and <hi>Confuſion.</hi> 
+               <note place="margin">
+                  <hi>Jer.</hi> 17.5.</note>
+               <hi>Curſed be the
+Man that truſteth in Man, and maketh Fleſh his Arm.</hi> Armies and Navies,
+Guards and Forts, Bombs and Cannon, Artil<g ref="char:EOLhyphen"/>lery and Ammunition are uſeleſs
+and unſerviceable with<g ref="char:EOLhyphen"/>out God, and the Succeſs in the day of Battle muſt
+be attributed principally to his Bleſſing. The divine Pro<g ref="char:EOLhyphen"/>vidence
+<pb n="3" facs="tcp:154019:6"/>is our greateſt ſafety and ſecurity both at Sea and
+Land; God muſt be conſulted firſt about the event of things; his aid and
+help muſt be chiefly ask'd, and our confidence, when we go againſt our
+Enemies, muſt be wholly in him: This is to build our Houſe with the wiſe
+Man upon a Rock, and therefore 
+<note place="margin">
+                  <hi>Matth.</hi> 7.</note>
+               <hi>when the Rain
+deſcends, the Floods come, and the Winds blow, and beat upon that Houſe, it
+falls not, becauſe it is founded upon a Rock.</hi> Unleſs God fights our
+Battles, <hi>Egypt</hi> and her <hi>Chariots</hi> and <hi>Horſe<g ref="char:EOLhyphen"/>men</hi> are
+but ſandy Foundations, and not to be truſted in. God has been pleaſed to
+do great Things for us; his gra<g ref="char:EOLhyphen"/>cious Providence never appear'd brighter in any
+Cauſe than in our Deliverances; we acknowledge them to be his handy Work, his
+gracious care over us; and whoever will give himſelf the trouble,
+ſeriouſly to look back and reflect upon the Adminiſtration of Affairs
+ſince our happy <hi>Revolution,</hi> muſt needs ſee, that the Providence
+of God has concern'd himſelf, interpos'd his Almighty Power and Wiſdom, and
+had an hand in all our Succeſſes and Advan<g ref="char:EOLhyphen"/>tages. They that will not
+believe this, I dare be bold to ſay, they believe no God, no Providence at
+all, or at leaſt are angry at Heaven, becauſe it will not ſmile upon
+their Cauſe, nor favour what they unreaſonably would have uppermoſt. God
+has heard our Prayers, and anſwered them; we call'd upon him in the Day of
+trouble, and he has done far more exceeding abundantly than we could think; his
+Almighty Arm has ſaved us, the Lord himſelf has been on our ſide; he has
+been with our Forces in their <hi>paſſing through the Waters,</hi> and in
+<hi>walking through the Fire.</hi> The Victories we have got already are
+ſtand<g ref="char:EOLhyphen"/>ing Monuments of his truth, and of the Lord's goodneſs to us. 
+<note place="margin">
+                  <hi>Pſal.</hi> 44.5,6,7,8.</note>
+               <hi>Through
+him have we overthrown our Enemies, and through his Name have we troden them
+under that roſe up a<g ref="char:EOLhyphen"/>gainſt<pb n="2" facs="tcp:154019:7"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="3" facs="tcp:154019:7"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="4" facs="tcp:154019:8"/>us. We did not truſt in our Bow, neither did our
+Sword ſave us; but the Lord ſaved us from our Enemies, and has put them to
+ſhame that hated us. In God we boaſt all the Day long, and praiſe his
+Name for ever.</hi> 
+               <note place="margin">
+                  <hi>Pſal.</hi> 33.16</note>
+               <hi>There is no
+King ſav'd by the multitude of his Hoſt: a mighty Man is not delivered by
+much ſtrength.</hi> 
+               <note place="margin">
+                  <hi>Pſal.</hi> 127.2</note>
+               <hi>Except the Lord
+keep the City, the Watchman waketh but in vain.</hi> 
+               <note place="margin">
+                  <hi>Eccleſ.</hi> 9.11.</note>
+               <hi>The Race is
+not to the ſwift, nor the Battle to the ſtrong.</hi> 
+               <note place="margin">1 <hi>Sam.</hi> 2.9.</note>
+               <hi>In his own might
+ſhall no Man be ſtrong.</hi> The Eyes of King <hi>Jehoſaphat,</hi> and of
+all <hi>Judah,</hi> were in their great exigency and neceſſity, chiefly and
+principally upon God; for though his Army was great and numerous, yet when the
+Children of <hi>Mo<g ref="char:EOLhyphen"/>ab, Ammon</hi> and <hi>Mount Seir</hi> came againſt him,
+he proclai<g ref="char:EOLhyphen"/>med a Faſt, and cried unto the Lord; 
+<note place="margin">2 <hi>Chron.</hi> 20.12.</note>
+               <hi>O our God, we
+have no ſtrength in us to ſtand before this great Multitude that cometh
+againſt us, neither do we know what to do, but our Eyes are upon Thee.</hi>
+Though <hi>Aſa</hi> had an Army conſiſt<g ref="char:EOLhyphen"/>ing of no leſs than Five
+Hundred and Fourſcore Thou<g ref="char:EOLhyphen"/>ſand Men, all of them <hi>Men of Valour,</hi>
+yet he look'd up<g ref="char:EOLhyphen"/>on them as no prop for Truſt, as nothing without God, and
+therefore cry'd unto the Lord his God, and ſaid: 
+<note place="margin">2 <hi>Chron.</hi> 14.8.11.</note>
+               <hi>Lord it is
+nothing with Thee to help with many, or with no power; help us, O Lord our God,
+for we reſt in Thee, and in thy Name are we come againſt this multitude: O
+Lord, thou art our God, let not Man prevail againſt Thee. When</hi> Da<g ref="char:EOLhyphen"/>vid
+<hi>was in the Wilderneſs of</hi> Ziph, Saul <hi>ſought him every day,</hi>
+But what was the reaſon that he found him not? 
+<note place="margin">1 <hi>Sam.</hi> 23.14.</note>
+               <hi>The Lord
+delivered him not into his hands,</hi> Nihil ſine Deo, <hi>God is all in
+all;</hi> He is our <hi>Sun</hi> and <hi>Shield,</hi> our <hi>ſtrong Rock,
+and Tower of Defence, and mighty Deliverer.</hi> Holy <hi>David</hi> aſcribes
+all his Deliverances to the <hi>light of his Countenance,</hi> and <hi>the
+ſaving ſtrength of his right hand. 'Tis He that gives Victory unto
+Kings.</hi> 
+               <note place="margin">
+                  <hi>Prov.</hi> 21.1.</note> 
+               <hi>The King's</hi>
+Heart, <hi>and his</hi>
+               <pb n="5" facs="tcp:154019:8"/>Breath, <hi>and all his ways are in
+his hand;</hi> 
+               <note place="margin">
+                  <hi>Jud.</hi> 7.</note> 
+               <hi>the Sword of the
+Lord and Gideon</hi> is ſpoken of as but one two-handed Sword. 'Tis
+<hi>Gideon</hi> that ſtrikes, and 'tis the <hi>Lord</hi> that gives the
+Bleſſing. 
+<note place="margin">
+                  <hi>Pſal.</hi> 118.8,9.</note>
+               <hi>It is better
+to truſt in the Lord, than to put any Confidence in Man; it is better to
+truſt in the Lord, than to put any confidence in Princes;</hi> 
+               <note place="margin">
+                  <hi>Pſal.</hi> 20.7.</note>
+               <hi>ſome put
+their truſt in Chariots, and ſome in Horſes, but we will remem<g ref="char:EOLhyphen"/>ber the
+Name of the Lord our God.</hi> When <hi>Doeg,</hi> the <hi>E<g ref="char:EOLhyphen"/>domite,</hi>
+regarded not God, nor ſought to ſtrengthen him<g ref="char:EOLhyphen"/>ſelf by his favour,
+<hi>David</hi> propheſied his deſtruction. 
+<note place="margin">
+                  <hi>Pſal.</hi> 52.</note>
+               <hi>God ſhall
+deſtroy them for ever, he ſhall take thee away, pluck thee out of thy
+dwelling-place, and root thee out of the Land of the Living: Loe, this is the
+Man that made not God his ſtrength, but truſted in the abundance of his
+Riches, and ſtrengthned himſelf in his Wickedneſs.</hi> When that proud
+King <hi>Nebuchadnezzar</hi> was ſhaking his Plumes, and triumphing in the
+great <hi>Babel</hi> of his own building, 
+<note place="margin">
+                  <hi>Dan.</hi> 4.</note>
+               <hi>Is not this</hi>
+Great Babel <hi>that I have built for the Houſe of the Kingdom by the might
+of my power, and for the honour of my Majeſty?</hi> As he was thus vaunting
+and magnifying himſelf, God <hi>drove him from Men, and turn'd him to graſs
+among the Beaſts.</hi> When <hi>Sennacherib</hi> had encamped againſt
+<hi>Je<g ref="char:EOLhyphen"/>ruſalem,</hi> and was attributing his Succeſs to his own Strength
+and Wiſdom, ſee how God dealt with him, 
+<note place="margin">2 <hi>K.</hi> 19.28.</note>
+               <hi>He put a hook
+into his Noſe, and a bridle into his lips, and turn'd him back the ſame way
+he came.</hi> And when <hi>Herod</hi> took that glory to himſelf which was
+due to God, 
+<note place="margin">
+                  <hi>Acts</hi> 2.23.</note>
+               <hi>The Angel of the
+Lord ſmote him, and he was eaten up of Worms.</hi> And 'tis to be hoped that
+God has put a ſtop to the bloody rage, and nip'd the proud, inſolent and
+ambiti<g ref="char:EOLhyphen"/>ous Deſigns of the <hi>French</hi> King, who by treachery and policy
+had ſet great projects on foot to overthrow our Religion, and bring us under
+his ſlaviſh and tyrannical<pb n="4" facs="tcp:154019:9"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap> 
+               <pb n="5" facs="tcp:154019:9"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="6" facs="tcp:154019:10"/>yoak. 
+<note place="margin">
+                  <hi>Exod.</hi> 13.21.</note>It was not
+<hi>Moſes</hi> but <hi>God</hi> that brought the Chil<g ref="char:EOLhyphen"/>dren of
+<hi>Iſrael</hi> out of the <hi>Land of Egypt;</hi> neither was it our own Arm
+and Strength that reduced the Town and Caſtle of <hi>Namur,</hi> but God's
+Arm; Power and Goodneſs going along with the Forces of his Majeſty and his
+Al<g ref="char:EOLhyphen"/>lies that preſerved our King, and gave us the Victory, for which we this
+day rejoyce, 
+<note place="margin">
+                  <hi>Pſal.</hi> 62.8.</note>
+               <hi>Truſt in Him
+at all times ye people, God is a refuge.</hi> But</p>
+            <p>
+               <hi>Secondly,</hi> I proceed to ſhew what ſome of thoſe
+<hi>Great Things</hi> are, which the <hi>Lord hath done for us already,</hi>
+and I hope they will paſs for <hi>Great Things,</hi> whether ſome Men will
+or no. And</p>
+            <p>Firſt, <hi>The Lord hath done great Things for us,</hi> in
+raiſing us up a <hi>Deliverer</hi> in the day of our diſtreſs; God has
+given us a King who has delivered us from <hi>Popery</hi> and <hi>Slavery,</hi>
+who ſecures our Rights and Liberties, who has protected us from bloody and
+barbarous Enemies, and makes choice of fit, able and faithful Governours both
+for Church and State: The divine Providence in raiſing him up, raiſed up
+<hi>One</hi> that has defended our Religion, brought back our ancient Laws and
+Liberties, and given a check to the Arms of that once potent and formidable
+Prince, the <hi>French</hi> King: A <hi>Deliverer,</hi> that has neither
+ſpared his Perſon or his Pains to do us good; who has made our Cauſe his
+own, even when we were falling as a prey into our Enemies teeth. We would do
+well to call to mind the woful ſtate we were in before his Ma<g ref="char:EOLhyphen"/>jeſty landed,
+and then we may diſcern what <hi>Great Things</hi> God has done for us, in
+ſending him to us. He that conſiders the tottering Condition both Church
+and State were in; how the Government we liv'd under was growing to be
+Arbitrary, and a ſuperſtitious way of Worſhip ready to be ſet up and
+Eſtabliſhed among us;<pb n="7" facs="tcp:154019:10"/>He that conſiders theſe things
+cannot, without a won<g ref="char:EOLhyphen"/>derful infatuation, but muſt ſee <hi>God has done
+Great Things for us,</hi> in raiſing us up a <hi>Deliverer,</hi> who has
+protected our holy Religion, and ſtood in the gap to hinder the way of the
+Deſtroyer, who had pluck'd down our <hi>Hedge</hi> and <hi>Fence.</hi>
+But</p>
+            <p>Secondly, <hi>The Lord hath done great Things for us,</hi> in
+vouchfafing a particular protection unto this <hi>Deliverer</hi> in the day of
+danger. Run over his life, and ſee the miraculous Trains of Providence
+interpoſing for him; He has been the Darling of Heaven, and the ſpecial
+Ob<g ref="char:EOLhyphen"/>ject of Almighty God's ſingular care, inſomuch that no Prince in the
+World hath had ſuch ſignal Teſtimonies of the Kindneſſes of Heaven;
+when ſome fell at his right hand and ſome at his left, the Divine
+Providence covered his head, and the Almighty hid him under the ſha<g ref="char:EOLhyphen"/>dow of
+his wings. In his ſafety we are ſafe; his Health and Wealth is our Concern;
+his Preſervation is of uni<g ref="char:EOLhyphen"/>verſal Concernment to Religion and the Laws, to
+Church and State, and 'tis a happy Bleſſing to all the Nation at once; and
+therefore we had need pray heartily to God to ſave him, who doth defend us
+all. Well might the people tell King <hi>David,</hi> 
+               <note place="margin">2 <hi>Sam.</hi> 18.3.</note>
+               <hi>Thou art worth
+Ten Thouſand of us,</hi> becauſe in his peace they ſhould have peace: The
+ſafety of a good King is a publick Bleſſing; the happi<g ref="char:EOLhyphen"/>neſs of a
+Kingdom is twiſted with the Welfare of ſuch a Prince, the Kingdom, as it
+were, living and breathing in him. 
+<note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note>King <hi>Joſiah</hi>'s fall proved the utter Deſtruction
+and Downfall of the people themſelves; whilſt he liv'd, he was the fountain
+of their Liberty and Security, inſo<g ref="char:EOLhyphen"/>much that they promiſed to themſelves
+a laſting ſecuri<g ref="char:EOLhyphen"/>ty in his life, of <hi>whom we ſaid,</hi> 
+               <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+20.</note>
+               <hi>Under the ſhadow of his Wings we ſhall live among the
+Heathen.</hi> But how cloſe<pb n="6" facs="tcp:154019:11"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:154019:11"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap> 
+               <pb n="8" facs="tcp:154019:12"/>did their Ruine and Deſtruction follow the
+loſs of that exemplary and pious Prince? 
+<note n="*" place="margin">When the noble <hi>Epa<g ref="char:EOLhyphen"/>minondas</hi> the
+<hi>The<g ref="char:EOLhyphen"/>ban</hi> fell, <hi>Thebes</hi> it ſelf fell with him.</note> What
+<hi>Great Things</hi> then has God done for us, in watching over our King night
+and day, in preſerving him at his Up-riſing and Down<g ref="char:EOLhyphen"/>lying, and
+compaſſing his paths. God has ſuffered no Policy, no Secreſy to
+circumvent him, no Treachery to take him off, no Snares to catch him, not to
+fall into that Pit that was digg'd for him, nor no Weapon form'd a<g ref="char:EOLhyphen"/>gainſt him
+to proſper; he has ſtood by him in the day of Danger, given his Angels
+charge over him and brought him off with Victory and good ſucceſs. As to
+the in<g ref="char:EOLhyphen"/>ſtrumental Cauſe of that Victory we this day celebrate, much may be
+aſcrib'd to the wiſe conduct of our Lord the King; <hi>He has done Great
+Things for us.</hi> Such <hi>Great things,</hi> as may challenge any Prince in
+the world to ſhew the like, wrought for any People or Nation: 'Tis true
+indeed, the Author of all our Victories and Delive<g ref="char:EOLhyphen"/>rances we muſt own and
+acknowledge to be God; to him principally we muſt give the Glory and Honour,
+and praiſe him; but when it will be found among the Files of Records, that
+next under God, our <hi>King</hi> did theſe <hi>Great things</hi> for us, how
+will his Memory be had in Everlaſting Remembrance? How will the Ages to come
+tell of him? How bravely big will his Name look in Story? And how will his
+famous and noble Atchieve<g ref="char:EOLhyphen"/>ments be commended by admiring Poſterity? Theſe
+will intitle him a 
+<note place="margin">
+                  <hi>Iſai.</hi> 49.23.</note>
+               <hi>Nurſing
+Father of the Church,</hi> a <hi>Defender of the Faith,</hi> and a
+<hi>Reſtorer</hi> of our Religion, Laws, and Liberties. 
+<note place="margin">
+                  <hi>Jud.</hi> 8.22.</note>
+               <hi>Come thou and rule
+over us,</hi> ſaid the people, to <hi>Gideon, for thou haſt delivered us
+from the hands of our Enemies.</hi> 
+               <note place="margin">1 <hi>K.</hi> 1.25.</note>
+               <hi>God ſave the
+King,</hi> was an uſual Form of Prayer in <hi>Adonijah's</hi> time. And when
+<hi>Joaſh</hi> was made King, <hi>They clapt their hands,</hi> uſed the
+ſame form of Salutation,<pb n="9" facs="tcp:154019:12"/>
+               <note place="margin">2 <hi>K.</hi>
+11.12</note>
+               <hi>God ſave the King.</hi> 
+               <note place="margin">1 <hi>Tim.</hi> 2.1.2.</note>
+               <hi>I exhort
+you,</hi> ſaith St. <hi>Paul, to make prayers for Kings, That we may
+lead a quiet and peaceable life in all godlineſs and honeſty.</hi> And in
+the ſucceeding Ages of Chriſtianity, I find the Chriſtians were highly
+ſollicitous about the ſafety of their Princes. Nor was this the temper of a
+Chriſtian Spirit onely, but of Hea<g ref="char:EOLhyphen"/>thens and Infidels, for it was a Decree
+made by <hi>Darius</hi> King of <hi>Perſia,</hi>
+               <note place="margin">
+                  <hi>Ezra</hi> 6.10.</note> that all the <hi>Elders of the
+Jews</hi> ſhu'd be furniſh'd with <hi>young Bullocks, or Rams, or Lambs,
+Wheat, Salt, Wine and Oil, that they may have to offer ſweet Odours unto the
+God of Heaven, and pray for the King's Life.</hi> The fall of a King ſhakes
+the whole Kingdom; there is a Sympathy between the Head and the Members, when
+the Breath of our Noſtrils is taken from us, needs muſt the Body faint and
+languiſh, &amp; expire in gaſping Agonies when the Royal Oak is cut down,
+we are bereav'd of all the benefits of its ſhelter; and the birds of Prey
+will ſoon ſnatch away <hi>the Chickens,</hi> when there is no <hi>Hen to
+gather them under her wings.</hi> Wherefore if we love our Country, if we have
+any regard to the Welfare of our ſelves, if we tender the intereſt of the
+<hi>Proteſtant Religion,</hi> of our Temporal Rights and the Common Good, we
+muſt from the bottom of our hearts pray for our King's proſperity, wiſh
+him long life and health, and earneſtly deſire his welfare and ſafety,
+becauſe in his peace we ſhall have peace. 
+<note place="margin">
+                  <hi>Dan.</hi> 3.9.</note>
+               <hi>O King live for
+ever.</hi>
+            </p>
+            <p>Thirdly, <hi>The Lord hath done Great Things for us,</hi> as to
+the preſervation of our ſelves, what might have been be<g ref="char:EOLhyphen"/>fallen us we know
+not; the fate of things look'd once very black upon us; thoſe Barbarities,
+Maſſacres, Pro<g ref="char:EOLhyphen"/>ſecutions with Fire and Faggot, and ſhedding of Blood
+that is proper to <hi>Popery,</hi> and thoſe inflicted upon Pro<g ref="char:EOLhyphen"/>teſtants,
+for refuſing to comply with Superſtition and<pb n="8" facs="tcp:154019:13"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="9" facs="tcp:154019:13"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="10" facs="tcp:154019:14"/>Idolatry, may
+open our Eyes, and let us ſee what we might have expected from the
+<hi>Romiſh</hi> Faction. Our own Nation knows it by ſad experience, that in
+the Reign of Queen <hi>Mary,</hi> many pious and good people were burnt at a
+Stake, for their denying to ſubſcribe, to their wick<g ref="char:EOLhyphen"/>ed and falſe
+Doctrines. Surely our <hi>Malecontents</hi> and <hi>Murmurers</hi> do not know
+the Principles, or Spirit of <hi>Popery;</hi> they muſt be ignorant in the
+Caſe of <hi>Henry</hi> the third of <hi>France,</hi> who was ſtabb'd, and
+the bloody Art applauded by the Pope himſelf, for not purging his Country
+from the Corruption of Hereſy, being admoniſhed ſo to do. The Church of
+<hi>Rome</hi> is guilty in this reſpect, in looking upon us Proteſtants as
+ſo many <hi>Hereticks,</hi> and what work her <hi>Sons</hi> had 'ere this Day
+been employ'd in, if our late <hi>Revolution had not hapned,</hi> we may very
+well gueſs. Thanks be to God for <hi>That,</hi> and all his other Mercies to
+us; and let it ever be recorded for the praiſe of his preſent Majeſty,
+who next under God, deliver'd us from Tyranny, and Popiſh Cruelty.</p>
+            <p>
+               <hi>Thirdly,</hi> I proceed to ſhew what our duty is in return
+to the Almighty, for doing ſo great things for us; for if the fore part of
+the Text belongs to God, the latter I am ſure belongs to us: If the Lord hath
+done <hi>Great things</hi> for us, then we are to rejoyce, and this Day is
+ſet apart for it. Now that our rejoycing this day may be pleaſing to God,
+it muſt firſt begin at the <hi>Church;</hi> there it muſt firſt ſhew
+it ſelf, be firſt ſeen and heard there, thither we muſt go in, and in
+the Congregation give thanks unto the Lord, for the <hi>Great things</hi> he
+hath done for us; we muſt firſt be joyful in the <hi>Houſe of
+Prayer,</hi> and our joy muſt exert it ſelf firſt after a Godly manner. 
+<note place="margin">
+                  <hi>Hoſ.</hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </note>We read of ſome who
+kept their King's Day with flagons of Wine, and by drinking to that exceſs,
+till they were ſick: <hi>They made<pb n="11" facs="tcp:154019:14"/>the King glad with
+their wickedneſs.</hi>
+               <note place="margin">
+                  <hi>v.</hi> 3.</note> Such Riot and
+Ex<g ref="char:EOLhyphen"/>ceſs was uſed upon that feſtivall Day, that as the Prophet
+<hi>Malachy</hi> ſpeaks of ſome others; There came nothing of their
+feaſts but dung: All they did was, they ſat down to eat, and drink, and
+roſe up to play; <hi>but with none of theſe was God pleaſed:</hi>
+Religion muſt this day be firſt obſerv'd: It is not enough that in our
+Feaſts this day we drink the King's Health, clap our hands, and cry, <hi>God
+ſave the King,</hi> but we muſt firſt <hi>regard the work of the Lord,
+and conſider the Operation of his hands:</hi> It is not Enough, that with the
+Harp and the Violl, the Timbrel and the Pipe, we give Thanks out of Cuſtom,
+but we muſt firſt <hi>go into the Houſe of the Lord,</hi> and there pour
+out our ſouls in Thankfulneſs to God, in a thankful Remembrance; and then
+after we have done here, we may lawfully go and rejoyce in our houſes, ſo
+long as Temperance is obſerv'd, and all manner of Riot and Exceſs laid
+aſide. It was God's command under the Law, that upon their rejoy<g ref="char:EOLhyphen"/>cing for his
+removal of any Plague, the Trumpets ſhu'd blow; And ſhall we, whom God by
+this happy day, calleth us to rejoycing by a great Victory, and the
+pre<g ref="char:EOLhyphen"/>ſervation of his Majeſty's Perſon, ſhall we whom God hath called to
+joy, hang down our heads like a Bull-ruſh, droop, and ſlight the Office of
+the Day? When the <hi>Graecians</hi> were ſet at Liberty by <hi>Flaminius,
+Plutarch</hi> tels us, they cry'd out,
+<gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Saviour, Saviour,</hi> with
+ſuch a Sound, that the Birds in the Air which flew over their heads fell
+aſtoniſh'd to the ground. And ſhall we be ſo little affected with our
+good Succeſs, and Deliverances? No, let our Ears be chearfully open to the
+ringing of Bells, and to the noiſe of Muſical Inſtruments: Our
+<hi>Hoſannah's</hi> this day ſhall be heard in the higheſt, for 
+<pb n="10" facs="tcp:154019:15"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="11" facs="tcp:154019:15"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="12" facs="tcp:154019:16"/>
+               <hi>This is a Day which the Lord hath made, we will rejoyce
+and be glad in it.</hi> What <hi>Nehemiah</hi> ſaid unto the People upon
+hearing the law read, I ſay unto you. 
+<note place="margin">
+                  <hi>Neh.</hi> 8.10.</note>
+               <hi>Go, and Eat of the
+Fat, and drink the Sweet, and ſend Portions un<g ref="char:EOLhyphen"/>to them for whom none is
+prepared, for this is a joyfull Day indeed, be yee not ſorry therefore, for
+the Joy of the Lord is your ſtrength.</hi> I come</p>
+            <p>
+               <hi>Laſtly,</hi> To conſider what Improvement we are to make
+of the whole. And</p>
+            <p>
+               <hi>Firſt,</hi> If we would ſtrengthen that which God hath
+<hi>al<g ref="char:EOLhyphen"/>ready</hi> wrought for us, and carry on, and perfect his mar<g ref="char:EOLhyphen"/>vellous
+Works towards us, we muſt <hi>be followers of that which is good,</hi> and
+live ſo, that God may take delight in us, bleſs us with the continuance of
+his Bleſſings, and may have no occaſion given him to repent him of the
+Mercies ſhewn to us. Whilſt we are under ſuch a gra<g ref="char:EOLhyphen"/>cious and benign
+iufluence of Heaven; we muſt take care that we do not by our Sins, make
+ſuch a <hi>ſeparation</hi> between it and us, as may provoke God to throw
+off his care of us, and withdraw his helping hand from us. What's to be done
+then, to procure a continuance of thoſe <hi>Great Things he hath done for us
+already?</hi> Even this, to come to Repentance, and that's the way to carry
+them on to perfection: O let his mercy and goodneſs lead us all to
+Repentance: May his wonderful Delive<g ref="char:EOLhyphen"/>rances oblige us all to love and fear him;
+and may his many and great preſervations of our King endear our
+Righteouſneſs, and excite our Obedience to him, and then the Deliverances
+we have had will be a pledge of more. This would heap Palms and Laurels upon
+our Cauſe, and bring us off Conquerors, <hi>for the Eye of the Lord is upon
+them that fear him:</hi> He takes pleaſure in<pb n="13" facs="tcp:154019:16"/>ſuch, and
+it ſhall go well with them. <hi>Evil-doers</hi> and
+<hi>Tranſgreſſors</hi> ſhall be <hi>cut off,</hi> and rooted out, but
+thoſe who truſt in the Lord and do good, ſhall by ſo doing, <hi>dwell
+in the Land, and verily they ſhall be fed.</hi> 
+               <note place="margin">
+                  <hi>Jer.</hi> 7.23.</note>
+               <hi>Obey my
+voice,</hi> ſaid God to the Jews, <hi>and I will be your God, and yee ſhall
+be my People; and walk yee in all the Ways that I have commanded you, that it
+may be well with you:</hi> And he tells the <hi>Iſraelites,</hi> that 
+<note place="margin">
+                  <hi>Exod.</hi> 19.5.</note>
+               <hi>if they would
+obey his Voice in<g ref="char:EOLhyphen"/>deed, and keep his Covenant, that then they ſhould be a
+peculiar Treaſure unto him above all People.</hi> Even an Hea<g ref="char:EOLhyphen"/>then Poet made
+this Obſervation to the <hi>Romans,</hi> 
+               <q> 
+                  <l>
+                     <note place="margin">Horat.</note>Diis te minorem quod geris,
+imperas.</l>
+               </q> That their Succeſs was owing to their piety, and their
+Obedience to the Gods, made them Rulers and Commanders: And therefore may we
+all be ſo wiſe, as to ſay as the people did to <hi>Joſhua,</hi> 
+               <note place="margin">
+                  <hi>Joſ.</hi> 24.24.</note>
+               <hi>The Lord our
+God will we ſerve, and his Voice will we Obey.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> We have had <hi>Great things</hi> done for us,
+and therefore in order to have God ſtill on our ſide, it is a Duty
+incumbent upon us to be thankful for them: There are ſome Men of ſo unhappy
+a Temper, as to forfeit the Advantages of them, if God would have taken it at
+their hands; that with the ungrateful <hi>Iſraelites</hi> are in love with
+the <hi>fleſh-pots of Egypt,</hi> and would return back into that Land.
+Strange perverſeneſs and blindneſs! That the <hi>Iſraelites</hi> would
+not know when they were well uſed, but inſtead of ſhewing their
+gratitude, under-valued the vouchfafements of Heaven's favour, as if the very
+reaſon of their quarrelling, Gods goodneſs, was none other but this, that
+it infinitely ſurpaſſed all their deſervings. I<pb n="12" facs="tcp:154019:17"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="13" facs="tcp:154019:17"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="14" facs="tcp:154019:18"/>wiſh ſome
+among us did not too near reſemble theſe un<g ref="char:EOLhyphen"/>grateful <hi>Iſraelites;</hi>
+but I ſhall not blow the coals; a juſt amazement to ſee thoſe Miracles
+of Mercy flung up, and that ſome men ſhould go about to make thoſe
+bleſſings God has beſtow'd upon us for our good, an occaſion of
+falling, fills me with dread &amp; horrour of the judgments of God, which may
+well fall upon the Land. For if Mer<g ref="char:EOLhyphen"/>cies cannot prevail with us, what can we
+expect but the next ſcent ſhould be Judgments? If Men will kick and ſpurn
+againſt Heaven, and throw themſelves back into that, or a worſe condition
+then they have yet been in, 'tis not to be expected that God will work new
+miracles every day for them. If 
+<note place="margin">
+                  <hi>Rev.</hi> 22.11.</note>
+               <hi>He that is filthy
+will be filthy ſtill,</hi> he muſt expect <hi>Ephraim's</hi> doom, 
+<note place="margin">
+                  <hi>Hoſ.</hi> 4.17.</note>
+               <hi>Ephraim is
+joyned unto Idols, let him alone, let him follow the Counſels of his own
+heart, and be filled with his own Deviſes.</hi> 
+               <note place="margin">
+                  <hi>Jer.</hi> 51.9.</note>
+               <hi>We would have
+healed</hi> Babilon, <hi>and ſhe would not be healed, forſake her; We would
+have healed</hi> Babilon, There is Mercy and Goodneſs on Gods part, <hi>but
+ſhe would not be healed,</hi> there is a Deſpiſing of his goodneſs on
+her part, and then follows deſertion on God's part, <hi>forſake her.</hi> 
+               <note place="margin">
+                  <hi>Pſal.</hi> 81.11,12.</note>
+               <hi>My people
+would not hearken to my voice and</hi> Iſrael <hi>would none of me, ſo I
+gave them up unto their own Hearts luſts, and they walked in their own
+Counſels.</hi> 
+               <note place="margin">
+                  <hi>v.</hi> 13,14.</note>
+               <hi>Oh, that my People
+had harkned unto me, and</hi> Iſrael <hi>had walked in my Ways; I would
+ſoon have humbled their Enemies, and turned my hand againſt their
+Adverſaries.</hi> 
+               <note place="margin">2 <hi>Theſſ.</hi>
+2.10.11.</note>
+               <hi>Becauſe they received not the Love of the Truth that they
+might be ſaved, for this cauſe God ſhall ſend them ſtrong Deluſions
+to believe a Lie.</hi> For how juſt is it with God, to lift up his hand
+againſt a people, and overthrow them, as he did the unthank<g ref="char:EOLhyphen"/>full
+<hi>Iſraelites,</hi> for not keeping in mind the Deliverances
+<pb n="15" facs="tcp:154019:18"/>he had granted them? We are an happy people, if we did but
+know it: Sufficiently happy, if ſome were not ſo fooliſhly induſtrious
+to make themſelves unhappy. We are not involv'd in Blood and Confuſion, as
+our Neigh<g ref="char:EOLhyphen"/>bouring Countries are. We live in peace and plen<g ref="char:EOLhyphen"/>ty, whilſt in the
+mean time other Nations are fright<g ref="char:EOLhyphen"/>ed with the ſound of Trumpets, the Beating
+of Drums, the neighing of Horſes, the roaring of Cannon, the howling of
+Women, and the ſchrikeing of Chil<g ref="char:EOLhyphen"/>dren expoſed to the rage and fury of
+mercileſs Souldi<g ref="char:EOLhyphen"/>ers. We build and plant, beautifie and adorn our Hou<g ref="char:EOLhyphen"/>ſes
+and Habitations, whilſt others are burnt down, bat<g ref="char:EOLhyphen"/>tered about their Ears,
+and lie in ruine and deſolation. We have plenty, whilſt others are in want.
+We ſowe in Peace, and reap in peace, whilſt other Men's la<g ref="char:EOLhyphen"/>bours are
+enjoyed by Strangers and Enemies. Such Bleſſings as theſe, cry aloud to
+us to be thankful to Heaven. <hi>O that we were wiſe, that we would
+conſider this, and praiſe the Lord for his Goodneſs, and declare the
+Wonder that he hath done for us.</hi>
+            </p>
+            <p>Thirdly, <hi>The Lord hath done Great Things for us,</hi> in
+raiſing up our King to be the happy Inſtrument of our Deliverance, and
+therefore next being thankful to God, we are under an high Obligation to be
+Loyal and O<g ref="char:EOLhyphen"/>bedient to his Majeſty, and to ſtudy the things that make for
+his Honour and Glory, as he has done thoſe that make for our Peace and
+Safety: And for this no Charges ought to be ſpar'd, no Power from
+<hi>France</hi> fea<g ref="char:EOLhyphen"/>red, otherwiſe this opportunity of making our ſelves
+under him happy, will one day riſe up in Judgment, and condemn us.</p>
+            <pb n="14" facs="tcp:154019:19"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="15" facs="tcp:154019:19"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <p>
+               <pb n="16" facs="tcp:154019:20"/>May it pleaſe a gracious <hi>God, who hath
+done Great Things for us already,</hi> to continue his Mercies to us: And may
+we, conſidering the Dangers we have been in, quicken our Zeal, ſhew Vigour
+in the Cauſe of our Religion and the preſent Government: And may it
+pleaſe God to move the hearts of ſuch as are in Autho<g ref="char:EOLhyphen"/>rity, to be active
+and diligent in their Duty, that ſo thoſe Deliverances may be ſtrengthned
+which God hath wrought for us. Crown our King, O Lord, with Ho<g ref="char:EOLhyphen"/>nour and
+Succeſs here, and with an everlaſting Crown of Glory in Heaven hereafter.
+<hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:154019:20" rendition="simple:additions"/>
+            <pb n="16" facs="tcp:154019:21"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:154019:21"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:154019:22"/>
+            <pb facs="tcp:154019:22"/>
+            <pb facs="tcp:154019:23" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
